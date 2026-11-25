@@ -1,0 +1,5 @@
+measure,pooled_r,within_user_r
+steps,0.55,0.82
+very_active_min,0.62,0.68
+lightly_active_min,0.15,0.57
+sedentary_min,-0.12,-0.28

@@ -1,0 +1,4 @@
+wear_group,users,avg_steps,avg_nights_sleep_logged
+High (25+ days),21,9106.0,15.8
+Low (<15),1,5117.0,0.0
+Medium (15–24),11,6175.0,6.0

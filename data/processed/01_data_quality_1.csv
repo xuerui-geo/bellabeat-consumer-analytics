@@ -1,0 +1,5 @@
+table_name,n_rows,n_users,first_day,last_day
+daily_activity,940,33,2016-04-12,2016-05-12
+sleep_day,413,24,2016-04-12,2016-05-12
+hourly_steps,22099,33,2016-04-12,2016-05-12
+weight_log,67,8,,

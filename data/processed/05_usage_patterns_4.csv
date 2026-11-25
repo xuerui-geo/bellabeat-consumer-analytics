@@ -1,0 +1,8 @@
+weekday,weekday_num,avg_steps,avg_sedentary_hours
+Monday,1,8525.0,16.6
+Tuesday,2,8949.0,16.2
+Wednesday,3,8242.0,16.1
+Thursday,4,8493.0,16.0
+Friday,5,7886.0,16.4
+Saturday,6,9061.0,15.7
+Sunday,7,7627.0,15.8
