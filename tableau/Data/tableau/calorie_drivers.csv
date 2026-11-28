@@ -1,0 +1,5 @@
+measure,r_across_users,r_within_user
+Steps,0.55,0.82
+Very active minutes,0.62,0.68
+Lightly active minutes,0.15,0.57
+Sedentary minutes,-0.12,-0.28

@@ -1,0 +1,25 @@
+hour_of_day,period,avg_steps
+00:00,Other,42.0
+01:00,Other,23.0
+02:00,Other,17.0
+03:00,Other,6.0
+04:00,Other,13.0
+05:00,Other,44.0
+06:00,Other,179.0
+07:00,Other,306.0
+08:00,Other,428.0
+09:00,Other,433.0
+10:00,Other,482.0
+11:00,Other,457.0
+12:00,Peak (530+ steps),549.0
+13:00,Peak (530+ steps),538.0
+14:00,Peak (530+ steps),541.0
+15:00,Other,406.0
+16:00,Other,497.0
+17:00,Peak (530+ steps),550.0
+18:00,Peak (530+ steps),599.0
+19:00,Peak (530+ steps),583.0
+20:00,Other,354.0
+21:00,Other,308.0
+22:00,Other,238.0
+23:00,Other,122.0
